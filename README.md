@@ -1,3 +1,5 @@
-# bbellini.io
- 
-Vanilla CSS and JS. Fork, update the links, and you are good to go.
+# noctun
+
+this startpage is a fork of this startpage by brady bellini
+https://github.com/bradybellini/bbellini.io
+modified to fit my own needs
