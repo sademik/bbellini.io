@@ -1,5 +1,5 @@
 :root {
-  --bgColor: #08070a;
+  --bgColor: #0B0B0B;
   --textColor: #b3c9d3;
   --linkColor: var(--textColor);
   --textColorHover: #ffffff;
@@ -91,7 +91,7 @@ a > div:hover {
 
 
 .tilde {
-    color: #FF0000;
+    color: #8099B0;
 }
 
 /* .blinker {
@@ -102,10 +102,10 @@ a > div:hover {
     border-left: 3px solid yellow;
     animation: blinker 0.9s steps(2, start) infinite;
   }
-  
+
   @keyframes blinker {
-    to { 
-      visibility: hidden; 
+    to {
+      visibility: hidden;
     }
   }
    */
